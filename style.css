@@ -9,26 +9,13 @@ h2 {
 
 
 
-.proj-1 {
+.proj {
     display: grid;
     grid-template-columns: 50% 50%;
 }
-.proj-1 p {
+.proj p {
     padding: 15px;
     font-size: 14px;
     margin: 20px;
-    font-family: 'Open Sans', sans-serif;
-}
-
-
-.proj-2 {
-    display: grid;
-    grid-template-columns: 35% 65%;
-}
-.proj-2 p {
-    border: 2px solid #333;
-    padding: 10px;
-    font-size: 14px;
-    text-align: center;
     font-family: 'Open Sans', sans-serif;
 }
