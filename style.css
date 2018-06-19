@@ -7,15 +7,15 @@ h2 {
     
 }
 
-
-
-.proj {
-    display: grid;
-    grid-template-columns: 50% 50%;
 }
-.proj p {
+.proj {
     padding: 15px;
     font-size: 14px;
-    margin: 20px;
+    margin: 500px;
     font-family: 'Open Sans', sans-serif;
+}
+p {
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-bottom: 75px;
 }
